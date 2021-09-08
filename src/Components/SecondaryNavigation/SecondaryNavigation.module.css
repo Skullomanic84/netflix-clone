@@ -1,0 +1,9 @@
+.secondarynav {
+    display: flex;
+    align-items: center;
+}
+
+.navItems {
+    margin-left: 2rem;
+    cursor: pointer;
+}
