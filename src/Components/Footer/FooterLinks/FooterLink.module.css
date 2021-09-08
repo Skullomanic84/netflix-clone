@@ -1,0 +1,19 @@
+.footerwrapper {
+    color: #e5e5e5;
+}
+
+
+.linklist {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    cursor: pointer;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.links {
+    flex-basis: 25%;
+    margin: 1rem;
+    font-size: .8rem;
+}

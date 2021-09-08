@@ -4,7 +4,7 @@ import './normalize.css';
 import Navigation from './Components/Navigation';
 import Billboard from './Components/Billboard';
 import Titles from './Components/Titles';
-import Footer from './Components/Footer'
+import Footer from './Components/Footer';
 
 function App() {
   return (

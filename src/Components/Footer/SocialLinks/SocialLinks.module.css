@@ -1,0 +1,9 @@
+.socialcontainer {
+    display: flex;
+    align-items: center;
+}
+
+.iconlinks {
+    margin-right: 1.5rem;
+    cursor: pointer;
+}
